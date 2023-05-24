@@ -27,5 +27,5 @@ function ageCalculator() {
   }
 
   output.innerText = `Your age is ${year} years ${month} months ${day} days`;
-	console.log('hii')
+	
 };
